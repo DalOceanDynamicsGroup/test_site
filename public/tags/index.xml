@@ -5,10 +5,6 @@
     <link>https://richardsc.github.io/test_site/tags/</link>
     <description>Recent content in Tags on Academic group name</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; Your Name, 2016 </copyright>
-    
-	<atom:link href="https://richardsc.github.io/test_site/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; Your Name, 2016 </copyright><atom:link href="https://richardsc.github.io/test_site/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
