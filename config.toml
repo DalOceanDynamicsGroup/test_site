@@ -2,7 +2,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseurl = "https://richardsc.github.io/test_site"
+baseurl = "https://daloceandynamicsgroup.github.io/test_site"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Academic group name"
